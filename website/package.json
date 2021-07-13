@@ -50,9 +50,9 @@
     "typed.js": "^2.0.11"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
+    "@babel/core": "^7.14.6",
+    "@babel/plugin-proposal-object-rest-spread": "^7.14.7",
+    "@babel/preset-env": "^7.14.7",
     "babel-plugin-transform-es2015-modules-strip": "~0.1.1",
     "babel-plugin-transform-strict-mode": "~6.24.1",
     "browser-sync": "~2.26.7",
