@@ -27,7 +27,7 @@
     "rollup-plugin-eslint": "^3.0.0",
     "rollup-plugin-postcss": "^0.4.1",
     "rollup-watch": "^2.5.0",
-    "uglify-js": "^2.7.3"
+    "uglify-js": "^3.14.3"
   },
   "repository": {
     "type": "git",
